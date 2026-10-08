@@ -1,4 +1,4 @@
-{
+{"overrides": {"sharp": "0.35.5"}, 
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
