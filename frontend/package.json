@@ -1,4 +1,4 @@
-{
+{"overrides": {"baseline-browser-mapping": "2.11.0"}, 
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
